@@ -1,16 +1,16 @@
 {
-  "bugs": [
+  "posts": [
     {
       "id": 1,
-      "title": "Test Bug 1"
+      "title": "Post 1"
     },
     {
       "id": 2,
-      "title": "Test Bug 2"
+      "title": "Post 2"
     },
     {
       "id": 3,
-      "title": "Test Bug 3"
+      "title": "Post 3"
     }
   ],
   "comments": [
@@ -26,7 +26,6 @@
     }
   ],
   "profile": {
-    "name": "SverreFH"
+    "name": "typicode"
   }
 }
-
