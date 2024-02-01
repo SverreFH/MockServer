@@ -3,6 +3,10 @@
     {
       "id": 1,
       "Title": "Testing bug report"
+    },
+    {
+      "id": 2,
+      "Title": "Testing bug report again"
     }
   ],
   "profile": {
